@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 131
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values-v21/base-template-styles.xml",
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 774
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,

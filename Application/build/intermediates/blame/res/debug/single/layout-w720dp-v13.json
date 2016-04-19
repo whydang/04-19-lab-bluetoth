@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout-w720dp-v13/activity_main.xml",
-        "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout-w720dp/activity_main.xml"
+        "merged": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
     }
 ]

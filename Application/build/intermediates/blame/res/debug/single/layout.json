@@ -1,22 +1,42 @@
 [
     {
-        "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
-        "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/activity_device_list.xml"
+        "merged": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\layout\\device_name.xml"
     },
     {
-        "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
-        "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/device_name.xml"
+        "merged": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/message.xml",
-        "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/message.xml"
+        "merged": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
     },
     {
-        "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
     },
     {
-        "merged": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
-        "source": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+        "merged": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
     }
 ]

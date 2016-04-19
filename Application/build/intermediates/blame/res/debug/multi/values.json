@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "outputFile": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 223
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 285
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 2726
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 2783
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 2837
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 2880
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 2950
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 2993
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 3037
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 3082
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 3125
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 3167
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 3235
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-dimens.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 3286
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/base-strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 3388
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 3445
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 3504
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 3577
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 3645
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/base-strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 3701
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 3769
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 3845
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 3898
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/fragmentview_strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 3951
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/fragmentview_strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 4012
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 4081
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 4150
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 4188
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 4285
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4344
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 4406
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 4478
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 4542
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4593
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-styles.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -696,7 +696,7 @@
                     "endOffset": 5059
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -717,7 +717,7 @@
                     "endOffset": 5185
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -738,7 +738,7 @@
                     "endOffset": 5313
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -758,7 +758,7 @@
                     "endOffset": 5373
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-styles.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -777,7 +777,7 @@
                     "endOffset": 5426
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-styles.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -796,7 +796,7 @@
                     "endOffset": 5453
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-styles.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -816,7 +816,7 @@
                     "endOffset": 5649
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-styles.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -837,7 +837,7 @@
                     "endOffset": 5927
                 },
                 "from": {
-                    "file": "/Users/joelross/Desktop/lab-bluetooth/Application/src/main/res/values/template-styles.xml",
+                    "file": "C:\\Users\\joelross\\Desktop\\lab-bluetooth\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -845,6 +845,857 @@
                         "endLine": 39,
                         "endColumn": 12,
                         "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 60,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 61,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 61,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 63,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 58,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1358,
+                        "endColumn": 58,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 56,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 56,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 53,
+                    "endOffset": 2837
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1474,
+                        "endColumn": 53,
+                        "endOffset": 1523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2842,
+                    "endColumn": 42,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 42,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 69,
+                    "endOffset": 2950
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 69,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2955,
+                    "endColumn": 42,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 42,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endColumn": 43,
+                    "endOffset": 3037
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 43,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3042,
+                    "endColumn": 44,
+                    "endOffset": 3082
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 44,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3087,
+                    "endColumn": 42,
+                    "endOffset": 3125
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 42,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3130,
+                    "endColumn": 41,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 41,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3172,
+                    "endColumn": 67,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 67,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 50,
+                    "endOffset": 3286
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 50,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3291,
+                    "endColumn": 101,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 101,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endColumn": 56,
+                    "endOffset": 3445
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1663,
+                        "endColumn": 56,
+                        "endOffset": 1715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3450,
+                    "endColumn": 58,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1894,
+                        "endColumn": 58,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endColumn": 72,
+                    "endOffset": 3577
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1820,
+                        "endColumn": 72,
+                        "endOffset": 1888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3582,
+                    "endColumn": 67,
+                    "endOffset": 3645
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 67,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3650,
+                    "endColumn": 55,
+                    "endOffset": 3701
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 55,
+                        "endOffset": 1519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3706,
+                    "endColumn": 67,
+                    "endOffset": 3769
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1399,
+                        "endColumn": 67,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3774,
+                    "endColumn": 75,
+                    "endOffset": 3845
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 75,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3850,
+                    "endColumn": 52,
+                    "endOffset": 3898
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 52,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3903,
+                    "endColumn": 52,
+                    "endOffset": 3951
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 52,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3956,
+                    "endColumn": 60,
+                    "endOffset": 4012
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 60,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4017,
+                    "endColumn": 68,
+                    "endOffset": 4081
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1750,
+                        "endColumn": 68,
+                        "endOffset": 1814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4086,
+                    "endColumn": 68,
+                    "endOffset": 4150
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 68,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4155,
+                    "endColumn": 37,
+                    "endOffset": 4188
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 37,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4193,
+                    "endColumn": 96,
+                    "endOffset": 4285
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 100,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4290,
+                    "endColumn": 58,
+                    "endOffset": 4344
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 58,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4349,
+                    "endColumn": 61,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 61,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endColumn": 71,
+                    "endOffset": 4478
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1590,
+                        "endColumn": 71,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4483,
+                    "endColumn": 63,
+                    "endOffset": 4542
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1525,
+                        "endColumn": 63,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4547,
+                    "endColumn": 50,
+                    "endOffset": 4593
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 51,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4598,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 5059
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5064,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 5185
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2210,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5190,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 5313
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2336,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5318,
+                    "endColumn": 59,
+                    "endOffset": 5373
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 60,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5378,
+                    "endColumn": 52,
+                    "endOffset": 5426
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 53,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5431,
+                    "endColumn": 26,
+                    "endOffset": 5453
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 27,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5458,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5649
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5654,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5927
+                },
+                "from": {
+                    "file": "C:\\Users\\iADDA\\Desktop\\EERRYTHANG\\UW\\3 JUNIOR\\4 SPRING\\INFO 498 B\\lectures\\0419_T\\04-19-lab-bluetoth\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1387
                     }
                 }
             }
